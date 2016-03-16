@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FF6E40</color>
+    <color name="greenFab">#00C853</color>
+    <color name="greenFap_pressed">#1B5E20</color>
+    <color name="redFab">#FFCDD2</color>
+    <color name="redFab_pressed">#B71C1C</color>
+</resources>

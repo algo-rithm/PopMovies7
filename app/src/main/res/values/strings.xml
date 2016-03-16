@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">PopMovies7</string>
+    <string name="activity_label_MovieDetail">MovieDetails</string>
+    <string name="activity_label_Settings">Settings</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pref_movielist_label">Movie Listings</string>
+    <string name="pref_movielist_key">movie_listings</string>
+    <string name="pref_movielist_default">popular</string>
+
+    <string-array name="pref_movielist_values">
+        <item name="pref_now_playing">now_playing</item>
+        <item name="pref_popular">popular</item>
+        <item name="pref_top_rated">top_rated</item>
+        <item name="pref_upcoming">upcoming</item>
+    </string-array>
+
+    <string-array name="pref_movielist_labels">
+        <item name="pref_now_playing">Now Playing</item>
+        <item name="pref_popular">Popular</item>
+        <item name="pref_top_rated">Top Rated</item>
+        <item name="pref_upcoming">Upcoming</item>
+    </string-array>
+
+    <string name="action_share">Share</string>
+
+    <string name="pref_now_playing_baseapi">movie/now_playing</string>
+    <string name="pref_popular_baseapi">movie/popular</string>
+    <string name="pref_top_rated_baseapi">movie/top_rated</string>
+    <string name="pref_upcoming_baseapi">movie/upcoming</string>
+
+    <string name="tab_movies">MOVIES</string>
+    <string name="tab_favorites">#{FAVORITES}</string>
+
+    <string name="movie_added_to_favorites">Movie successfully added to Favorites!</string>
+    <string name="movie_failed_added_to_favorites">Movie FAILED adding to Favorites.</string>
+    <string name="movie_removed_from_favorites">Movie successfully REMOVED from Favorites!</string>
+    <string name="movie_failed_removing_from_favorites">Movie FAILED REMOVING from Favorites.</string>
+    <string name="tv_overview_label">Overview:</string>
+    <string name="tv_trailer_label">TRAILERS</string>
+    <string name="tv_reviews_label">REVIEWS</string>
+    <string name="tv_overview_labels">Overview:</string>
+    <string name="tv_trailer_labels">TRAILERS</string>
+    <string name="tv_reviews_labels">REVIEWS</string>
+    <string name="overview">Overview:</string>
+    <string name="tv_trailers">TRAILERS</string>
+
+    <dimen name="tv_overview_label">0dp</dimen>
+</resources>
